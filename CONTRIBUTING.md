@@ -6,7 +6,7 @@ Thank you for your interest in contributing to NanoZK! We greatly appreciate con
 
 ## Project Overview
 
-This project is a monorepo of packages with well-defined purposes. All of the following are packages are located in the [packages/\*](https://github.com/hyperspaceinc/nanozk/blob/master/packages) directory.
+This project is a monorepo of packages with well-defined purposes. All of the following are packages are located in the [packages.json](https://github.com/hyperspaceai/HyperspaceZK/blob/main/package.json) directory.
 
 ### `@nanozk/core`
 
@@ -30,7 +30,7 @@ To learn more about how NanoZK works, visit our development guide:
 
 https://nanozk.com/docs
 
-For relatively simple tasks to familiarize yourself with `NanoZK`, please check out issues labeled with the `good-first-issue` label [here](https://github.com/hyperspaceinc/nanozk/labels/good-first-issue). If you find an interesting unassigned issue, or one not actively worked on in some time, ask for it to be assigned to you and someone from the team will help you get started.
+For relatively simple tasks to familiarize yourself with `NanoZK`, please check out issues labeled with the `good-first-issue` label [here](https://github.com/hyperspaceai/HyperspaceZK/labels/good%20first%20issue). If you find an interesting unassigned issue, or one not actively worked on in some time, ask for it to be assigned to you and someone from the team will help you get started.
 
 If you have an idea for an enhancement to the protocol itself, please make a proposal by following the [NanoZK Enhancement Proposal](https://github.com/hyperspaceinc/nanozk/blob/master/neps/nep-001.md) process.
 
@@ -40,7 +40,7 @@ Contributions to `NanoZK` happen via Pull Requests. Follow these steps when crea
 
 1. Fork the `NanoZK` repository and create a new branch for your work.
 2. The branch can contain any number of commits. All commits will be squashed into a single commit when merged.
-3. Your changes should be thoroughly tested. Refer to [this document](https://github.com/hyperspaceinc/nanozk/blob/master/docs/testing/README.md) for our testing guidelines.
+3. Your changes should be thoroughly tested. Refer to [this document](https://github.com/hyperspaceai/HyperspaceZK/blob/main/README.md) for our testing guidelines.
 4. Your changes should be linted and follow the linting guidelines.
 5. When ready, send a pull request against the `master` branch of the `NanoZK` repository.
 6. Feel free to submit draft PRs to get early feedback and ensure you're on the right track.
