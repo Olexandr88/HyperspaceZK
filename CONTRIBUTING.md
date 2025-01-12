@@ -6,7 +6,7 @@ Thank you for your interest in contributing to NanoZK! We greatly appreciate con
 
 ## Project Overview
 
-This project is a monorepo of packages with well-defined purposes. All of the following are packages are located in the [packages.json](https://github.com/hyperspaceai/HyperspaceZK/blob/main/package.json) directory.
+This project is a monorepo of packages with well-defined purposes. All of the following are packages are located in the [package.json](https://github.com/hyperspaceai/HyperspaceZK/blob/main/package.json) directory.
 
 ### `@nanozk/core`
 
